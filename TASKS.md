@@ -11,8 +11,8 @@
   - [X] index.html
   - [X] styles.css
   - [X] script.js
-- [ ] Link CSS and JS files in HTML
-- [ ] Set up basic HTML boilerplate
+- [X] Link CSS and JS files in HTML
+- [X] Set up basic HTML boilerplate
 
 ---
 
